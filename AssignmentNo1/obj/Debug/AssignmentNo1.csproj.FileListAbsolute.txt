@@ -1,0 +1,20 @@
+C:\Users\RJ\source\repos\AssignmentNo1\AssignmentNo1\bin\Debug\AssignmentNo1.exe.config
+C:\Users\RJ\source\repos\AssignmentNo1\AssignmentNo1\bin\Debug\AssignmentNo1.exe
+C:\Users\RJ\source\repos\AssignmentNo1\AssignmentNo1\bin\Debug\AssignmentNo1.pdb
+C:\Users\RJ\source\repos\AssignmentNo1\AssignmentNo1\obj\Debug\AssignmentNo1.csproj.AssemblyReference.cache
+C:\Users\RJ\source\repos\AssignmentNo1\AssignmentNo1\obj\Debug\AssignmentNo1.Form1.resources
+C:\Users\RJ\source\repos\AssignmentNo1\AssignmentNo1\obj\Debug\AssignmentNo1.Properties.Resources.resources
+C:\Users\RJ\source\repos\AssignmentNo1\AssignmentNo1\obj\Debug\AssignmentNo1.csproj.GenerateResource.cache
+C:\Users\RJ\source\repos\AssignmentNo1\AssignmentNo1\obj\Debug\AssignmentNo1.csproj.CoreCompileInputs.cache
+C:\Users\RJ\source\repos\AssignmentNo1\AssignmentNo1\obj\Debug\AssignmentNo1.exe
+C:\Users\RJ\source\repos\AssignmentNo1\AssignmentNo1\obj\Debug\AssignmentNo1.pdb
+C:\Users\user\Downloads\New folder (2)\assignment1-master\AssignmentNo1\bin\Debug\AssignmentNo1.exe.config
+C:\Users\user\Downloads\New folder (2)\assignment1-master\AssignmentNo1\bin\Debug\AssignmentNo1.exe
+C:\Users\user\Downloads\New folder (2)\assignment1-master\AssignmentNo1\bin\Debug\AssignmentNo1.pdb
+C:\Users\user\Downloads\New folder (2)\assignment1-master\AssignmentNo1\obj\Debug\AssignmentNo1.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\New folder (2)\assignment1-master\AssignmentNo1\obj\Debug\AssignmentNo1.Form1.resources
+C:\Users\user\Downloads\New folder (2)\assignment1-master\AssignmentNo1\obj\Debug\AssignmentNo1.Properties.Resources.resources
+C:\Users\user\Downloads\New folder (2)\assignment1-master\AssignmentNo1\obj\Debug\AssignmentNo1.csproj.GenerateResource.cache
+C:\Users\user\Downloads\New folder (2)\assignment1-master\AssignmentNo1\obj\Debug\AssignmentNo1.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\New folder (2)\assignment1-master\AssignmentNo1\obj\Debug\AssignmentNo1.exe
+C:\Users\user\Downloads\New folder (2)\assignment1-master\AssignmentNo1\obj\Debug\AssignmentNo1.pdb
